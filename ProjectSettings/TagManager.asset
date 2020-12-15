@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Camera 1
+  - Camera 2
+  - Camera 3
+  - Camera 4
+  - 1
+  - 2
+  - 3
+  - 4
+  - Goal
+  - Coint
   layers:
   - Default
   - TransparentFX
